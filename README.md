@@ -9,7 +9,7 @@
   <hr>
 </div>
 
-A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
+Kumpulan yang dikategorikan berdasarkan komunitas dari pustaka, alat, kerangka kerja dan perangkat lunak Ruby yang mengagumkan. Bagian Ruby yang penting untuk membangun Aplikasi modern dan Aplikasi Web.
 
 * [Awesome Ruby](#awesome-ruby)
   * [Abstraction](#abstraction)
